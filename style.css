@@ -1,0 +1,31 @@
+* {
+    margin: 5px;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: orange;
+}
+
+header {
+    background-color: grey;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 1rem;
+}
+
+
+.kotak {
+    background-color: grey;
+    color: white;
+    text-align: center;
+}
+
+.tombol {
+    display: flex;
+    justify-content: center;
+}
